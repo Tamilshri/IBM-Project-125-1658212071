@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body background="C:\Users\Rakesh\Desktop\Ass\img\img2.jpg"style="background-size: cover;">
+<body background="img2.jpg"style="background-size: cover;">
     <h1 style="text-align: center;">About us</h1>
     <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: large;">Retailers worldwide have started deploying smart service innovations in their stores to regain market
         share lost to online competitors. Against this backdrop, this paper focuses on the design of product
